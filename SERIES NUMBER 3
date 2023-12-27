@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+// series numberr 3
+   int count=1;
+for(int r=1; r<=4; r++)
+{
+for(int c=1 ; c<=r; c++)
+{
+cout<<count<<"";
+count ++;
+}
+cout <<andl;
+ }
+}
